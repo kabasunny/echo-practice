@@ -5,7 +5,7 @@ go 1.22.4
 require (
 	github.com/golang-jwt/jwt/v4 v4.5.0
 	github.com/joho/godotenv v1.5.1
-	github.com/labstack/echo/v4 v4.1.0
+	github.com/labstack/echo/v4 v4.12.0
 	golang.org/x/crypto v0.22.0
 	gorm.io/driver/postgres v1.5.9
 	gorm.io/gorm v1.25.11
